@@ -1,0 +1,14 @@
+body{
+    img{
+        width: 300px;
+        height: 200px;
+    }
+    input{
+        width:500px;
+        line-height: 20px;
+        padding: 10px 20px;
+        border: 1px solid #dfe1e5;
+     border-radius:25px ;
+     margin-bottom:20px ;
+    }
+}
